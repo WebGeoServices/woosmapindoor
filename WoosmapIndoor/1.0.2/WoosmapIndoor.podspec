@@ -18,7 +18,7 @@ Key Features of Woosmap Indoor are:
 5.	Trigger proximity alerts at geo-fenced zones.
                    DESC
 
-  s.homepage     = "https://github.com/sanginfolbs/woosmapindoor"
+  s.homepage     = "https://github.com/WebGeoServices/woosmapindoor"
   
 
 
@@ -44,7 +44,7 @@ Key Features of Woosmap Indoor are:
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   
-  s.source       = { :git => "https://github.com/sanginfolbs/woosmapindoorsdk.git", :tag => "1.0.2" }
+  s.source       = { :git => "https://github.com/WebGeoServices/woosmapindoorsdk.git", :tag => "1.0.2" }
   s.vendored_frameworks = 'WoosmapIndoor.framework'
   
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
