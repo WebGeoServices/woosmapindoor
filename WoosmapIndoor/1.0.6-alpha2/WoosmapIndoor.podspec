@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
   s.name         = "WoosmapIndoor"
-  s.version      = "1.0.6-alpha1"
+  s.version      = "1.0.6-alpha2"
   s.summary      = "Woosmap Indoor helps the developers to create indoor location based applications"
   s.description  = <<-DESC
 Key Features of Woosmap Indoor are:
@@ -44,7 +44,7 @@ Key Features of Woosmap Indoor are:
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  s.source       = { :git => "https://github.com/Woosmap/woosmapindoorsdk.git", :tag => "1.0.6-alpha1" }
+  s.source       = { :git => "https://github.com/Woosmap/woosmapindoorsdk.git", :tag => "1.0.6-alpha2" }
   s.vendored_frameworks = 'WoosmapIndoor.framework'
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
