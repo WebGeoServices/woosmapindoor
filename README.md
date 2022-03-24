@@ -2,9 +2,9 @@
 ![woosmap](https://avatars.githubusercontent.com/u/1203240?s=200&v=4)
 # Woosmap Indoor SDK
 
-The WoosmapIndoor SDK for iOS (henceforth, “The SDK”) helps developers to create indoor location based applications.
+The WoosmapIndoor SDK for iOS helps developers to create indoor location based applications.
 The SDK has the following features:
-1. Can be used with Google Indoor maps or Custom Maps.
+1. Display an Indoor map of your venue.
 2. Way-finding with turn by turn instructions.
 3. Seamless floor transition with an option to use the in-built floor selector, or work with a user’s custom-made floor selector.
 4. Search for Products or Places inside a venue.
