@@ -447,7 +447,7 @@ The SDK offers the client application to customize certain elements rendered on 
 |6|Navigation Head Arrow visibility|```indoorMapObj.hideNavigationHeadMarkerOnLastStep = True/ False```|
 
 ## API reference
-[WoosmapIndoor Map iOS SDK Reference](https://woosmap-indoor-apidoc.s3.us-west-2.amazonaws.com/ios/index.html)
+[WoosmapIndoor Map iOS SDK Reference](https://woosmap-indoor-apidoc.s3.us-west-2.amazonaws.com/ios1.0.8/index.html)
 
 ## License
 &copy; 2021-2022 Web Geo Services. All rights reserved.
