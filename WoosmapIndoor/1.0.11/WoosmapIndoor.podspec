@@ -1,9 +1,8 @@
 Pod::Spec.new do |s|
 
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-
   s.name         = "WoosmapIndoor"
-  s.version      = "1.0.10"
+  s.version      = "1.0.11"
   s.summary      = "Woosmap Indoor helps the developers to create indoor location-based applications."
   s.description  = <<-DESC
 Key Features of Woosmap Indoor are:
@@ -14,10 +13,9 @@ Key Features of Woosmap Indoor are:
 5.	Trigger proximity alerts at geo-fenced zones.
                    DESC
 
-  s.homepage     = "https://github.com/Woosmap/indoor-ios-sdk-pods"
+  s.homepage     = "https://github.com/Woosmap/indoor-ios-sdk-release"
   s.authors = { 'Web Geo Services' => 'https://developers.woosmap.com/support/contact/'}
   s.documentation_url = 'https://github.com/Woosmap/indoor-ios-sdk-release'
-
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.license      = { :type => "MIT", :file => "LICENSE" }
@@ -27,7 +25,6 @@ Key Features of Woosmap Indoor are:
   s.ios.deployment_target = "12.0"
   s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.source       = { :git => "https://github.com/Woosmap/woosmapindoorsdk.git", :tag => s.version.to_s }
